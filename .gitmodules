@@ -1,9 +1,9 @@
 [submodule "source"]
 	path = source
-	url = git@github.com:jeffHust/source.git
+	url = git@github.com:usp-base/source.git
 [submodule "platform"]
 	path = platform
-	url = git@github.com:jeffHust/platform.git
+	url = git@github.com:usp-base/platform.git
 [submodule "include"]
 	path = include
-	url = git@github.com:jeffHust/include.git
+	url = git@github.com:usp-base/include.git
