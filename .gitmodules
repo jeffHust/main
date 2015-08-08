@@ -1,0 +1,9 @@
+[submodule "source"]
+	path = source
+	url = git@github.com:jeffHust/source.git
+[submodule "platform"]
+	path = platform
+	url = git@github.com:jeffHust/platform.git
+[submodule "include"]
+	path = include
+	url = git@github.com:jeffHust/include.git
